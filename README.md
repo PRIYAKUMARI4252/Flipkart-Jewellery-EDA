@@ -25,5 +25,5 @@ data/ → Raw dataset
 notebooks/ → Jupyter EDA notebook
 images/ → Visualization charts
 scripts/ → Data cleaning script
-README.md → Project documentation
+
 
