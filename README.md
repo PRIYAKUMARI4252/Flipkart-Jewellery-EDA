@@ -21,3 +21,9 @@ The analysis helps understand patterns in the online jewellery market and suppor
 ---
 
 ## 📁 Project Structure
+data/ → Raw dataset
+notebooks/ → Jupyter EDA notebook
+images/ → Visualization charts
+scripts/ → Data cleaning script
+README.md → Project documentation
+
